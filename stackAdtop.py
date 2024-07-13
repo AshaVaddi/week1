@@ -1,5 +1,5 @@
 from collections import deque
-stack = deque()  # Creating an empty deque to act as stack
+stack = deque()  
 while True:
         print("\nStack Operations:")
         print("1. Push")
